@@ -1,0 +1,1 @@
+cout << xorOfArray(arr, n) << endl;
